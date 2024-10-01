@@ -97,7 +97,7 @@
       <polystyle handcursor="1" bordercolor="0x0000ff" backgroundalpha="0.25098" backgroundcolor="0x0000ff" borderalpha="1" mode="0"/>
       <hotspot id="Point01" url="{node2}" tilt="-10.49" pan="-36.61" description="" skinid="ht_node" target="$fwd" title="精緻禮盒"/>
       <hotspot id="Point02" url="{node5}" tilt="-10.91" pan="-228.38" description="" skinid="ht_node" target="$fwd" title="乾燥香草葉"/>
-      <hotspot id="Point03" url="images/info1-1.jpeg" tilt="-8.56" pan="-299.13" description="使用說明" skinid="ht_image" target="" title="香草純露"/>
+      <hotspot id="Point03" url="images/info1-scale-2_00x.jpeg" tilt="-8.56" pan="-299.13" description="使用說明" skinid="ht_image" target="" title="香草純露"/>
     </hotspots>
     <media/>
     <transition blendcolor="0x000000" blendtime="1" zoomin="0" zoomafterinfov="140" zoomspeed="2" zoomoutpause="1" zoomout="0" delay="none" enabled="1" type="crossdissolve" softedge="0" zoomfov="40" zoomafteroutfov="40"/>
