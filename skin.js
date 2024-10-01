@@ -1,7 +1,7 @@
 // Garden Gnome Software - Skin
 // Pano2VR 7.1.4/20938
 // Filename: skin_with_FloorPlan_and_Logo_v12_multi_hotspot_icon.ggsk
-// Generated 2024-10-01T23:02:02
+// Generated 2024-10-01T23:17:03
 
 function pano2vrSkin(player,base) {
 	player.addVariable('vis_thumbnail_menu', 2, false, { ignoreInState: 1  });
@@ -6474,12 +6474,12 @@ function pano2vrSkin(player,base) {
 		el.className="ggskin ggskin_container ";
 		el.ggType='container';
 		hs ='';
-		hs+='height : 80%;';
-		hs+='left : calc(50% - ((80% + 0px) / 2) + 0%);';
+		hs+='height : 85%;';
+		hs+='left : calc(50% - ((85% + 0px) / 2) + 0%);';
 		hs+='position : absolute;';
 		hs+='top : 10%;';
 		hs+='visibility : hidden;';
-		hs+='width : 80%;';
+		hs+='width : 85%;';
 		hs+='pointer-events:none;';
 		el.setAttribute('style',hs);
 		el.style.transformOrigin='50% 50%';
@@ -6511,14 +6511,14 @@ function pano2vrSkin(player,base) {
 				me._image_popup.ggCurrentLogicStateScaling = newLogicStateScaling;
 				me._image_popup.style.transition='transform 0s';
 				if (me._image_popup.ggCurrentLogicStateScaling == 0) {
-					me._image_popup.ggParameter.sx = 0.7;
-					me._image_popup.ggParameter.sy = 0.7;
+					me._image_popup.ggParameter.sx = 1;
+					me._image_popup.ggParameter.sy = 1;
 					me._image_popup.style.transform=parameterToTransform(me._image_popup.ggParameter);
 					skin.updateSize(me._image_popup);
 				}
 				else if (me._image_popup.ggCurrentLogicStateScaling == 1) {
-					me._image_popup.ggParameter.sx = 0.4;
-					me._image_popup.ggParameter.sy = 0.4;
+					me._image_popup.ggParameter.sx = 1;
+					me._image_popup.ggParameter.sy = 1;
 					me._image_popup.style.transform=parameterToTransform(me._image_popup.ggParameter);
 					skin.updateSize(me._image_popup);
 				}
