@@ -1,112 +1,112 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tour apprev="20938" appversion="7.1.4" hassounds="1" start="node1">
+<tour hassounds="1" appversion="7.1.4" apprev="20938" start="node1">
   <panorama id="node1">
-    <input width="3650" levelingpitch="0" levelingroll="0" height="3650" levelbiashidpi="1.000" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" overlap="1">
-      <level width="3650" preload="0" height="3650" predecode="0"/>
-      <level width="1825" preload="0" height="1825" predecode="0"/>
-      <level width="912" preload="0" height="912" predecode="0"/>
-      <level width="456" preload="1" height="456" predecode="1"/>
+    <input leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" levelbias="0.400" height="3650" width="3650" overlap="1">
+      <level preload="0" height="3650" width="3650" predecode="0"/>
+      <level preload="0" height="1825" width="1825" predecode="0"/>
+      <level preload="0" height="912" width="912" predecode="0"/>
+      <level preload="1" height="456" width="456" predecode="1"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="2" pannorth="-102.04">
-      <start fov="100" tilt="0" projection="4" pan="0"/>
-      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <start tilt="0" projection="4" fov="100" pan="0"/>
+      <flyin tilt="-90" projection="9" fov="170" pan="0"/>
       <min tilt="-90" fovpixel="2" pan="0"/>
-      <max fov="140" fovfisheye="360" fovstereographic="330" tilt="90" pan="360" scaletofit="1"/>
+      <max tilt="90" fovstereographic="330" scaletofit="1" fovfisheye="360" fov="140" pan="360"/>
     </view>
-    <userdata nodeid="node1" heading="-102.04" description="" datetime="" copyright="jp-image.space" tags="環香|純露" customnodeid="" author="" title="香草環香、純露" source="" info="" comment="" latitude="23.98567886" longitude="121.60529532"/>
-    <hotspots width="180" smoothmovement="0" wordwrap="1" height="20">
-      <label borderradius="1" width="180" backgroundcolor="0xffffff" border="1" bordercolor="0x000000" background="1" height="20" enabled="1" wordwrap="1" textalpha="1" backgroundalpha="1" textcolor="0x000000" borderalpha="1"/>
-      <polystyle handcursor="1" backgroundcolor="0x0000ff" mode="1" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1"/>
-      <hotspot url="{node2}" tilt="-0.0199994" id="Point01" title="乾燥香草葉" description="" target="-178.0/-2.5/91.1" skinid="ht_node" pan="-271.62"/>
-      <hotspot url="V6vjnbBKnIY&amp;si=GVwdy_QhkYBXeoqG" tilt="-4.5" id="Point03" title="香草環香 | 禾亮家香草" description="" target="_parent" skinid="ht_video_youtube" pan="-22.33"/>
-      <hotspot url="EvIKxOP-II4&amp;si=WWzMrKH1CDN-40Hu" tilt="-4.23" id="Point04" title="自然的香氣，純露的魔法：發現五種香草的秘密" description="" target="_parent" skinid="ht_video_youtube" pan="-354.13"/>
-      <polyhotspot url="" id="Poly02" title="" description="" target="_blank">
+    <userdata tags="環香|純露" customnodeid="" longitude="121.60529532" comment="" source="" info="" description="" latitude="23.98567886" copyright="jp-image.space" heading="-102.04" nodeid="node1" datetime="" title="香草環香、純露" author=""/>
+    <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
+      <label wordwrap="1" bordercolor="0x000000" backgroundalpha="1" border="1" textalpha="1" enabled="1" borderradius="1" backgroundcolor="0xffffff" height="20" width="180" background="1" textcolor="0x000000" borderalpha="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="1" borderalpha="1"/>
+      <hotspot tilt="-0.0199994" id="Point01" skinid="ht_node" target="-178.0/-2.5/91.1" description="" title="乾燥香草葉" url="{node2}" pan="-271.62"/>
+      <hotspot tilt="-4.5" id="Point03" skinid="ht_video_youtube" target="_parent" description="" title="香草環香 | 禾亮家香草" url="V6vjnbBKnIY&amp;si=GVwdy_QhkYBXeoqG" pan="-22.33"/>
+      <hotspot tilt="-4.23" id="Point04" skinid="ht_video_youtube" target="_parent" description="" title="自然的香氣，純露的魔法：發現五種香草的秘密" url="EvIKxOP-II4&amp;si=WWzMrKH1CDN-40Hu" pan="-354.13"/>
+      <polyhotspot id="Poly02" target="_blank" description="" title="" url="">
         <polystring>-176.15/0.99</polystring>
       </polyhotspot>
     </hotspots>
     <media>
-      <video width="640" pansize="10.000" field="90.000" hidepinned="0" ambientlevel="0.000" fov="29.000" handcursor="1" stretch="1.000" tilt="20.380" id="Element01" tiltsize="10.000" pan="-359.460" nodechangekeep="0" popbackmode="2" clickmode="1" height="360" loop="0" roty="-2.000" startmutedmobile="1" mode="3" popoutscaling="60" rotz="0.000" level="1.000" rotx="12.000">
+      <video rotz="0.000" rotx="12.000" stretch="1.000" popbackmode="2" handcursor="1" hidepinned="0" clickmode="1" roty="-2.000" id="Element01" nodechangekeep="0" field="90.000" popoutscaling="60" pansize="10.000" ambientlevel="0.000" fov="29.000" tilt="20.380" tiltsize="10.000" loop="0" startmutedmobile="1" height="360" mode="3" level="1.000" width="640" pan="-359.460">
         <source url="media/ .mp4"/>
       </video>
-      <video width="720" pansize="10.000" field="90.000" hidepinned="0" ambientlevel="0.000" fov="15.000" handcursor="1" stretch="1.000" tilt="2.730" id="Element02" tiltsize="10.000" pan="-178.600" nodechangekeep="0" popbackmode="2" clickmode="1" height="1280" loop="0" roty="1.000" startmutedmobile="1" mode="3" popoutscaling="70" rotz="0.000" level="1.000" rotx="0.000">
+      <video rotz="0.000" rotx="0.000" stretch="1.000" popbackmode="2" handcursor="1" hidepinned="0" clickmode="1" roty="1.000" id="Element02" nodechangekeep="0" field="90.000" popoutscaling="70" pansize="10.000" ambientlevel="0.000" fov="15.000" tilt="2.730" tiltsize="10.000" loop="0" startmutedmobile="1" height="1280" mode="3" level="1.000" width="720" pan="-178.600">
         <source url="media/ 2024.04.20 .mp4"/>
       </video>
     </media>
-    <transition delay="none" zoomafterinfov="140" softedge="0" blendcolor="0x000000" enabled="1" zoomfov="40" zoomspeed="2" zoomin="0" zoomout="0" zoomoutpause="1" type="crossdissolve" blendtime="1" zoomafteroutfov="40"/>
-    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
-    <control simulatemass="1" dblclickfullscreen="0" zoomcentercursor="0" invertwheel="0" contextfullscreen="1" contextvr="1" rubberband="0" lockedmouse="0" sensitivity="8" lockedkeyboardzoom="0" lockedwheel="0" contextprojections="0" hideabout="0" invertcontrol="1" speedwheel="1" lockedkeyboard="0"/>
+    <transition softedge="0" delay="none" type="crossdissolve" zoomafterinfov="140" zoomafteroutfov="40" zoomoutpause="1" zoomout="0" enabled="1" blendtime="1" blendcolor="0x000000" zoomspeed="2" zoomin="0" zoomfov="40"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control contextfullscreen="1" invertwheel="0" speedwheel="1" lockedkeyboard="0" lockedwheel="0" dblclickfullscreen="0" simulatemass="1" rubberband="0" hideabout="0" lockedmouse="0" invertcontrol="1" contextprojections="0" sensitivity="8" contextvr="1" zoomcentercursor="0" lockedkeyboardzoom="0"/>
   </panorama>
   <panorama id="node2">
-    <input width="3652" levelingpitch="0" levelingroll="0" height="3652" levelbiashidpi="1.000" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" overlap="1">
-      <level width="3652" preload="0" height="3652" predecode="0"/>
-      <level width="1826" preload="0" height="1826" predecode="0"/>
-      <level width="913" preload="0" height="913" predecode="0"/>
-      <level width="456" preload="1" height="456" predecode="1"/>
+    <input leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" levelbias="0.400" height="3652" width="3652" overlap="1">
+      <level preload="0" height="3652" width="3652" predecode="0"/>
+      <level preload="0" height="1826" width="1826" predecode="0"/>
+      <level preload="0" height="913" width="913" predecode="0"/>
+      <level preload="1" height="456" width="456" predecode="1"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="2" pannorth="79.1045">
-      <start fov="100" tilt="0" projection="4" pan="0"/>
-      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <start tilt="0" projection="4" fov="100" pan="0"/>
+      <flyin tilt="-90" projection="9" fov="170" pan="0"/>
       <min tilt="-90" fovpixel="2" pan="0"/>
-      <max fov="140" fovfisheye="360" fovstereographic="330" tilt="90" pan="360" scaletofit="1"/>
+      <max tilt="90" fovstereographic="330" scaletofit="1" fovfisheye="360" fov="140" pan="360"/>
     </view>
-    <userdata nodeid="node2" heading="79.1045" description="" datetime="" copyright="jp-image.space" tags="PTGuioutput|乾燥香草葉|香草鹽" customnodeid="" author="" title="乾燥香草葉" source="" info="" comment="" latitude="" longitude=""/>
-    <hotspots width="180" smoothmovement="0" wordwrap="1" height="20">
-      <label borderradius="1" width="180" backgroundcolor="0xffffff" border="1" bordercolor="0x000000" background="1" height="20" enabled="1" wordwrap="1" textalpha="1" backgroundalpha="1" textcolor="0x000000" borderalpha="1"/>
-      <polystyle handcursor="1" backgroundcolor="0x0000ff" mode="1" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1"/>
-      <hotspot url="{node1}" tilt="0.54" id="Point01" title="香草環香、純露" description="" target="0.4/-1.9/80.5" skinid="ht_node" pan="-271.51"/>
-      <hotspot url="{node3}" tilt="0.19" id="Point02" title="禾亮米" description="" target="1.4/-2.5/85.7" skinid="ht_node" pan="-91.38"/>
-      <hotspot url="N3gxg0KUjBY&amp;si=HvAQC81mGcCMXwJX" tilt="3.47" id="Point03" title="紫錐花的神奇力量" description="紫錐花香草茶" target="_parent" skinid="ht_video_youtube" pan="-177.87"/>
+    <userdata tags="PTGuioutput|乾燥香草葉|香草鹽" customnodeid="" longitude="" comment="" source="" info="" description="" latitude="" copyright="jp-image.space" heading="79.1045" nodeid="node2" datetime="" title="乾燥香草葉" author=""/>
+    <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
+      <label wordwrap="1" bordercolor="0x000000" backgroundalpha="1" border="1" textalpha="1" enabled="1" borderradius="1" backgroundcolor="0xffffff" height="20" width="180" background="1" textcolor="0x000000" borderalpha="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="1" borderalpha="1"/>
+      <hotspot tilt="0.54" id="Point01" skinid="ht_node" target="0.4/-1.9/80.5" description="" title="香草環香、純露" url="{node1}" pan="-271.51"/>
+      <hotspot tilt="0.19" id="Point02" skinid="ht_node" target="1.4/-2.5/85.7" description="" title="禾亮米" url="{node3}" pan="-91.38"/>
+      <hotspot tilt="3.47" id="Point03" skinid="ht_video_youtube" target="_parent" description="紫錐花香草茶" title="紫錐花的神奇力量" url="N3gxg0KUjBY&amp;si=HvAQC81mGcCMXwJX" pan="-177.87"/>
     </hotspots>
     <media>
-      <video width="854" pansize="10.000" field="90.000" hidepinned="0" ambientlevel="0.000" fov="30.000" handcursor="1" stretch="1.000" tilt="22.790" id="Element01" tiltsize="10.000" pan="-179.390" nodechangekeep="0" popbackmode="2" clickmode="1" height="480" loop="0" roty="0.000" startmutedmobile="1" mode="3" popoutscaling="60" rotz="0.000" level="1.000" rotx="0.000">
+      <video rotz="0.000" rotx="0.000" stretch="1.000" popbackmode="2" handcursor="1" hidepinned="0" clickmode="1" roty="0.000" id="Element01" nodechangekeep="0" field="90.000" popoutscaling="60" pansize="10.000" ambientlevel="0.000" fov="30.000" tilt="22.790" tiltsize="10.000" loop="0" startmutedmobile="1" height="480" mode="3" level="1.000" width="854" pan="-179.390">
         <source url="media/video.mp4"/>
       </video>
-      <video width="720" pansize="10.000" field="90.000" hidepinned="0" ambientlevel="0.000" fov="21.000" handcursor="1" stretch="1.000" tilt="6.420" id="Element02" tiltsize="10.000" pan="-359.880" nodechangekeep="0" popbackmode="2" clickmode="1" height="1280" loop="0" roty="0.000" startmutedmobile="1" mode="3" popoutscaling="70" rotz="0.000" level="1.000" rotx="0.000">
+      <video rotz="0.000" rotx="0.000" stretch="1.000" popbackmode="2" handcursor="1" hidepinned="0" clickmode="1" roty="0.000" id="Element02" nodechangekeep="0" field="90.000" popoutscaling="70" pansize="10.000" ambientlevel="0.000" fov="21.000" tilt="6.420" tiltsize="10.000" loop="0" startmutedmobile="1" height="1280" mode="3" level="1.000" width="720" pan="-359.880">
         <source url="media/ -1.mp4"/>
       </video>
     </media>
-    <transition delay="none" zoomafterinfov="140" softedge="0" blendcolor="0x000000" enabled="1" zoomfov="40" zoomspeed="2" zoomin="0" zoomout="0" zoomoutpause="1" type="crossdissolve" blendtime="1" zoomafteroutfov="40"/>
-    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
-    <control simulatemass="1" dblclickfullscreen="0" zoomcentercursor="0" invertwheel="0" contextfullscreen="1" contextvr="1" rubberband="0" lockedmouse="0" sensitivity="8" lockedkeyboardzoom="0" lockedwheel="0" contextprojections="0" hideabout="0" invertcontrol="1" speedwheel="1" lockedkeyboard="0"/>
+    <transition softedge="0" delay="none" type="crossdissolve" zoomafterinfov="140" zoomafteroutfov="40" zoomoutpause="1" zoomout="0" enabled="1" blendtime="1" blendcolor="0x000000" zoomspeed="2" zoomin="0" zoomfov="40"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control contextfullscreen="1" invertwheel="0" speedwheel="1" lockedkeyboard="0" lockedwheel="0" dblclickfullscreen="0" simulatemass="1" rubberband="0" hideabout="0" lockedmouse="0" invertcontrol="1" contextprojections="0" sensitivity="8" contextvr="1" zoomcentercursor="0" lockedkeyboardzoom="0"/>
   </panorama>
   <panorama id="node3">
-    <input width="3649" levelingpitch="0" levelingroll="0" height="3649" levelbiashidpi="1.000" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" overlap="1">
-      <level width="3649" preload="0" height="3649" predecode="0"/>
-      <level width="1824" preload="0" height="1824" predecode="0"/>
-      <level width="912" preload="0" height="912" predecode="0"/>
-      <level width="456" preload="1" height="456" predecode="1"/>
+    <input leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" levelbias="0.400" height="3649" width="3649" overlap="1">
+      <level preload="0" height="3649" width="3649" predecode="0"/>
+      <level preload="0" height="1824" width="1824" predecode="0"/>
+      <level preload="0" height="912" width="912" predecode="0"/>
+      <level preload="1" height="456" width="456" predecode="1"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="2" pannorth="-188.489">
-      <start fov="100" tilt="0" projection="4" pan="0"/>
-      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <start tilt="0" projection="4" fov="100" pan="0"/>
+      <flyin tilt="-90" projection="9" fov="170" pan="0"/>
       <min tilt="-90" fovpixel="2" pan="0"/>
-      <max fov="140" fovfisheye="360" fovstereographic="330" tilt="90" pan="360" scaletofit="1"/>
+      <max tilt="90" fovstereographic="330" scaletofit="1" fovfisheye="360" fov="140" pan="360"/>
     </view>
-    <userdata nodeid="node3" heading="-188.489" description="產地直送新鮮米" datetime="" copyright="jp-image.space" tags="PTGuioutput|禾亮米" customnodeid="" author="" title="禾亮米" source="" info="" comment="" latitude="" longitude=""/>
-    <hotspots width="180" smoothmovement="0" wordwrap="1" height="20">
-      <label borderradius="1" width="180" backgroundcolor="0xffffff" border="1" bordercolor="0x000000" background="1" height="20" enabled="1" wordwrap="1" textalpha="1" backgroundalpha="1" textcolor="0x000000" borderalpha="1"/>
-      <polystyle handcursor="1" backgroundcolor="0x0000ff" mode="1" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1"/>
-      <hotspot url="{node2}" tilt="0.14" id="Point01" title="乾燥香草葉" description="" target="180.0/-0.1/100.0" skinid="ht_node" pan="-177.16"/>
-      <hotspot url="dbK6PKSvr7U&amp;si=IE3QdtdYBcl-97Yh" tilt="3" id="Point02" title="台梗16號米簡介" description="" target="_parent" skinid="ht_video_youtube" pan="-357.76"/>
-      <hotspot url="ihpOvvefWCU&amp;si=B0WGyGZC5neUXd3d" tilt="4.05" id="Point03" title="香草日記：薰衣草的四重奏，探索其獨特魅力 | 禾亮家香草" description="" target="_parent" skinid="ht_video_youtube" pan="-84.47"/>
+    <userdata tags="PTGuioutput|禾亮米" customnodeid="" longitude="" comment="" source="" info="" description="產地直送新鮮米" latitude="" copyright="jp-image.space" heading="-188.489" nodeid="node3" datetime="" title="禾亮米" author=""/>
+    <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
+      <label wordwrap="1" bordercolor="0x000000" backgroundalpha="1" border="1" textalpha="1" enabled="1" borderradius="1" backgroundcolor="0xffffff" height="20" width="180" background="1" textcolor="0x000000" borderalpha="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="1" borderalpha="1"/>
+      <hotspot tilt="0.14" id="Point01" skinid="ht_node" target="180.0/-0.1/100.0" description="" title="乾燥香草葉" url="{node2}" pan="-177.16"/>
+      <hotspot tilt="3" id="Point02" skinid="ht_video_youtube" target="_parent" description="" title="台梗16號米簡介" url="dbK6PKSvr7U&amp;si=IE3QdtdYBcl-97Yh" pan="-357.76"/>
+      <hotspot tilt="4.05" id="Point03" skinid="ht_video_youtube" target="_parent" description="" title="香草日記：薰衣草的四重奏，探索其獨特魅力 | 禾亮家香草" url="ihpOvvefWCU&amp;si=B0WGyGZC5neUXd3d" pan="-84.47"/>
     </hotspots>
     <media>
-      <video width="720" pansize="10.000" field="90.000" hidepinned="0" ambientlevel="0.000" fov="20.000" handcursor="1" stretch="1.000" tilt="10.060" id="Element01" tiltsize="10.000" pan="-266.480" nodechangekeep="0" popbackmode="2" clickmode="1" height="1280" loop="0" roty="0.000" startmutedmobile="1" mode="3" popoutscaling="90" rotz="0.000" level="1.000" rotx="0.000">
+      <video rotz="0.000" rotx="0.000" stretch="1.000" popbackmode="2" handcursor="1" hidepinned="0" clickmode="1" roty="0.000" id="Element01" nodechangekeep="0" field="90.000" popoutscaling="90" pansize="10.000" ambientlevel="0.000" fov="20.000" tilt="10.060" tiltsize="10.000" loop="0" startmutedmobile="1" height="1280" mode="3" level="1.000" width="720" pan="-266.480">
         <source url="media/ -2.mp4"/>
       </video>
     </media>
-    <transition delay="none" zoomafterinfov="140" softedge="0" blendcolor="0x000000" enabled="1" zoomfov="40" zoomspeed="2" zoomin="0" zoomout="0" zoomoutpause="1" type="crossdissolve" blendtime="1" zoomafteroutfov="40"/>
-    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
-    <control simulatemass="1" dblclickfullscreen="0" zoomcentercursor="0" invertwheel="0" contextfullscreen="1" contextvr="1" rubberband="0" lockedmouse="0" sensitivity="8" lockedkeyboardzoom="0" lockedwheel="0" contextprojections="0" hideabout="0" invertcontrol="1" speedwheel="1" lockedkeyboard="0"/>
+    <transition softedge="0" delay="none" type="crossdissolve" zoomafterinfov="140" zoomafteroutfov="40" zoomoutpause="1" zoomout="0" enabled="1" blendtime="1" blendcolor="0x000000" zoomspeed="2" zoomin="0" zoomfov="40"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control contextfullscreen="1" invertwheel="0" speedwheel="1" lockedkeyboard="0" lockedwheel="0" dblclickfullscreen="0" simulatemass="1" rubberband="0" hideabout="0" lockedmouse="0" invertcontrol="1" contextprojections="0" sensitivity="8" contextvr="1" zoomcentercursor="0" lockedkeyboardzoom="0"/>
   </panorama>
   <masternode>
-    <userdata author="" title="禾亮家" description="香草舖" comment="" copyright="" tags=""/>
+    <userdata copyright="" tags="" comment="" description="香草舖" title="禾亮家" author=""/>
     <animationsequences>
       <sequence title="Animation01"/>
     </animationsequences>
   </masternode>
-  <map mapstyle="streets" mapprovider="openstreetmap" index="0" mapurltemplate="http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" mapmaxzoom="18" id="Map01" title="" googlecustomstylecode="" type="web"/>
+  <map mapmaxzoom="18" type="web" mapurltemplate="http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" googlecustomstylecode="" mapprovider="openstreetmap" mapstyle="streets" id="Map01" title="" index="0"/>
 </tour>
